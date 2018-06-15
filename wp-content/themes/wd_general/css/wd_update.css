@@ -1,0 +1,14 @@
+/* CSS CUSTOM / FIX BUG NEW VERSION */
+/* Version 2.0 - 14/6/2018 			*/
+
+ul.cart_list .thumbnail, .product_list_widget .thumbnail, ul.cart_list .attachment-shop_thumbnail, .products_group .thumbnail{
+	max-width: 40%;
+}
+
+td.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-actions{
+	text-align: center;
+}
+
+.woocommerce .myaccount_user{
+	overflow: auto;
+}

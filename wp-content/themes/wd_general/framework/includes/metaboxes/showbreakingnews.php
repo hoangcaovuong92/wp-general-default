@@ -1,0 +1,2 @@
+<?php  $post = TvlgiaoWpdanceClassNameVar::TVLGiao_wpdance_GetVar("post");?>
+<p><label><?php esc_html__( 'Homepage Hot News ', 'wpgeneral' ) ?> </label><input type="checkbox" value="1" name="showbreakingnews" <?php if(get_post_meta($post->ID,TVLGiao_Wpdance_THEME_SLUG.'showbreakingnews',true)==1) echo "checked='checked'";?>/></p>

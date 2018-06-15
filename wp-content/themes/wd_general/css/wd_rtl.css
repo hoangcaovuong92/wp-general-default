@@ -1,0 +1,84 @@
+/*
+Theme Name: Glory
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Reset
+ * 2.0 - 
+ * 4.0 - Header
+ * 5.0 - Navigation
+ * 6.0 - Content
+ *   6.3 - Entry Meta
+ *   6.4 - Entry Content
+ *   6.5 - Galleries
+ *   6.7 - Post/Image/Paging Navigation
+ *   6.10 - Contributor Page
+ *   6.14 - Comments
+ * 7.0 - Sidebar
+ *   7.1 - Widgets
+ *   7.2 - Content Sidebar Widgets
+ * 9.0 - Featured Content
+ * 10.0 - Media Queries
+ * -----------------------------------------------------------------------------
+ */
+
+
+/**
+ * 1.0 Reset
+ * -----------------------------------------------------------------------------
+ */
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+	
+	text-align: right
+}
+
+/*span {
+	display: inline-block;
+} */
+
+
+caption,
+th,
+td {
+	text-align: right;
+}
+
+
+table td, table th {
+  text-align: right;
+}
+
+/**
+ * 2.0 Bootstrap
+ * -----------------------------------------------------------------------------
+ */
+.text-left{ text-align: right}
+.text-right{ text-align: left}
+
+.pull-left {
+  float: right !important;
+}
+.pull-right {
+  float: left !important;
+}
+
+.padding-left { padding-right: 0;}
+
+
+
+.wd-loading:before{ right: auto}
+
+/**
+ * 4.0 Header
+ * -----------------------------------------------------------------------------
+ */

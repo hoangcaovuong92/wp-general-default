@@ -1,0 +1,69 @@
+<?php
+// ! File Security Check
+if ( ! defined( 'ABSPATH' ) ) { exit; }
+// **********************************************************************// 
+// ! Register New Element: WD Recent Products By Category Products
+// **********************************************************************//
+$woo_products_params = array(
+	"name" => esc_html__("Products", 'wpgeneral'),
+	"base" => "products",
+	"icon" => "icon-wpb-woo",
+	"category" => 'Woocommerce',
+	"description"	=> '',
+	"params" => array(		
+		array(
+			"type" => "textfield",
+			"class" => "",
+			"heading" => esc_html__("Skus", 'wpgeneral'),
+			"admin_label" => true,
+			"param_name" => "sku",
+			"value" => "",
+			"description" => ''
+		),
+		array(
+			"type" => "textfield",
+			"class" => "",
+			"heading" => esc_html__("IDs", 'wpgeneral'),
+			"admin_label" => true,
+			"param_name" => "id",
+			"value" => "",
+			"description" => ''
+		),
+		// Columns
+		array(
+			"type" => "textfield",
+			"class" => "",
+			"heading" => esc_html__("Columns", 'wpgeneral'),
+			"admin_label" => true,
+			"param_name" => "columns",
+			"value" => "4",
+			"description" => ''
+		),
+		array(
+			"type" => "dropdown",
+			"class" => "",
+			"heading" => esc_html__("Order By", 'wpgeneral'),
+			"admin_label" => true,
+			"param_name" => "orderby",
+			"value" => array(
+				"Date" => "date",
+				"Title" => "title",
+				"Rand" => "rand"
+			),
+			"description" => ''
+		),
+		array(
+			"type" => "dropdown",
+			"class" => "",
+			"heading" => esc_html__("Order way", 'wpgeneral'),
+			"param_name" => "order",
+			"value" => array(
+				"Descending" => "desc",
+				"Ascending" => "asc"
+			),
+			"description" => esc_html__("Designates the ascending or descending order.", 'wpgeneral')
+		),
+	)
+);
+vc_map( $woo_products_params );
+?>

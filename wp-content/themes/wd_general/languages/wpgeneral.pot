@@ -1,0 +1,3657 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WD_General\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-14 07:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce/cart/cart-totals.php:89
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: framework/functions/filter_theme.php:113
+msgid " - <i class=\"fa fa-pencil-square-o\"></i>"
+msgstr ""
+
+#: woocommerce/order/tracking.php:14
+msgid " ago"
+msgstr ""
+
+#. 1: date, 2: time
+#: framework/functions/filter_theme.php:111
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: single.php:202 framework/functions/woo-hook.php:432
+#: framework/functions/woo-hook.php:478 framework/widgets/ew_multitab.php:103
+#: woocommerce/cart/shipping-calculator.php:60
+#: woocommerce/single-product/related.php:43
+#: woocommerce/single-product/up-sells.php:43
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: framework/functions/wdmenus-admin.php:107
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: framework/functions/wdmenus-admin.php:111
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:57
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/woo-product.php:26
+#, php-format
+msgid "%s in stock"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:31
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/theme_sidebar.php:235
+#, php-format
+msgid "%s sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:233
+#, php-format
+msgid "%s Widget Area"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: framework/functions/woo-product.php:34
+msgid "(backorders allowed)"
+msgstr ""
+
+#: framework/functions/filter_theme.php:129
+msgid "(Edit)"
+msgstr ""
+
+#: framework/functions/woo-account.php:59
+msgid "* Required"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: single.php:176
+msgid ", "
+msgstr ""
+
+#: framework/extension/extendvc/vc_includes/vc_functions.php:107
+msgid "-- Choose category --"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_gallery.php:46
+msgid "1 = 100%, 2 = 50%, 4 = 25%,..."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_gallery.php:37
+msgid "1 = 600x600, 2 = 600x300, 3 = 300x300,..."
+msgstr ""
+
+#: single-portfolio.php:129 single.php:181
+#, php-format
+msgid "<span class=\"%1$s heading-title\">Categories:</span> %2$s"
+msgstr ""
+
+#: single-portfolio.php:149
+#, php-format
+msgid "<span class=\"%s\"></span>: %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:34
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:56
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:56
+#: framework/extension/extendvc/vc_generate/sale_products.php:80
+msgid "A comma separated list of parent product category slugs"
+msgstr ""
+
+#: framework/functions/main.php:500
+msgid "Account"
+msgstr ""
+
+#: framework/functions/woo-hook.php:628 framework/functions/woo-hook.php:634
+msgid "Account password"
+msgstr ""
+
+#: framework/functions/woo-hook.php:622
+msgid "Account username"
+msgstr ""
+
+#: framework/functions/filter_theme.php:390
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:79
+msgid "Active"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_ads_sidebar.php:58
+msgid "Add"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Add a review"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:260
+#: framework/extension/extendvc/vc_includes/vc_functions.php:120
+#: framework/extension/extendvc/vc_includes/vc_functions.php:120
+msgid "Add image"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:5
+msgid "Add To Cart"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:46
+#: woocommerce/single-product/add-to-cart/variable.php:113
+#: woocommerce/single-product/add-to-cart/variable.php:124
+msgid "Add to cart"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:60
+msgid "Add To Cart Url"
+msgstr ""
+
+#: framework/functions/woo-hook.php:421
+#: woocommerce/checkout/form-checkout.php:144
+#: framework/includes/metaboxes/custom_ads_sidebar.php:12
+#: framework/includes/metaboxes/custom_ads_sidebar.php:13
+#: woocommerce/single-product/tabs/additional-information.php:15
+msgid "Additional Information"
+msgstr ""
+
+#: framework/widgets/emads.php:64
+msgid "Ads Url"
+msgstr ""
+
+#: framework/widgets/emads.php:10
+msgid "Advertisment  Widget"
+msgstr ""
+
+#: woocommerce/order/tracking.php:12
+msgid "ago"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feedbuner.php:46
+msgid "Align"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:347
+msgid "Align Right"
+msgstr ""
+
+#: framework/functions/header_function.php:199
+msgid "All Categories"
+msgstr ""
+
+#: framework/functions/filter_theme.php:393
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: woocommerce/order/tracking.php:14
+msgid "and was completed"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:130
+msgid "Animate"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:141
+msgid "Animate Type"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:150
+msgid "Animated Time"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/progress_bar.php:25
+msgid "Animation"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:124
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:22
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:164
+msgid "Apply Coupon"
+msgstr ""
+
+#: archive.php:66 index.php:78
+msgid "Archive"
+msgstr ""
+
+#. Name of the template
+msgid "Archive Template"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:180
+msgid "Articles posted by "
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:59
+msgid "Attribute"
+msgstr ""
+
+#: archive.php:57 index.php:69
+#, php-format
+msgid "Author : %s"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/sale_products.php:64
+msgid "Auto Deal Repeat"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:281
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:277
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:127
+msgid "Auto play"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:263
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:238
+msgid "Autoplay"
+msgstr ""
+
+#: framework/functions/woo-product.php:40
+#: framework/functions/woo-product.php:53 woocommerce/cart/cart.php:70
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Average"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:16
+msgid "Awesome Icon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Back To Shop"
+msgstr ""
+
+#: framework/functions/main.php:464
+msgid "Back to Top"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:53
+#: framework/extension/extendvc/vc_generate/icon.php:104
+msgid "Background Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:30
+#: framework/extension/extendvc/vc_generate/child_categories.php:62
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:47
+msgid "Background color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:62
+msgid "Background Color On Hover"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:39
+msgid "Background Image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:18
+msgid "Basic Plan"
+msgstr ""
+
+#: framework/functions/comment.php:58
+msgid "be first to comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Be the first to review"
+msgstr ""
+
+#: framework/widgets/ew_social.php:38
+msgid "Become our fan"
+msgstr ""
+
+#: framework/functions/filter_theme.php:389
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/widgets/best_selling_product.php:17
+#: framework/extension/extendvc/vc_generate/woo-best-selling-products.php:8
+msgid "Best Selling Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:115
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:114
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:100
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:105
+msgid "Big Product"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:121
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:123
+#: woocommerce/myaccount/form-edit-address.php:22
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/myaccount/my-address.php:34
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:80
+msgid "Blank or 0 if you don't want to show border"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:27
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:27
+msgid "Block description"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:19
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:19
+msgid "Block title"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:81
+msgid "Blog Left Widget Area"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:168
+msgid "Blog link"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:91
+msgid "Blog Right Widget Area"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Template"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Template (Grid style)"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:72
+#: framework/extension/extendvc/vc_generate/icon.php:87
+msgid "Border Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:81
+msgid "Border Color On Hover"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:90
+#: framework/extension/extendvc/vc_generate/icon.php:77
+msgid "Border Width"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:30
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:55
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:55
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:324
+#: framework/extension/extendvc/vc_generate/recent_products.php:29
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:40
+#: framework/extension/extendvc/vc_generate/sale_products.php:40
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:32
+#: framework/extension/extendvc/vc_generate/testimonial.php:49
+msgid "Box style"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_product_brand.php:29
+msgid "Brand"
+msgstr ""
+
+#: framework/functions/woo-hook.php:606
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:17
+msgid "Button"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:139
+#: framework/extension/extendvc/vc_generate/pricing_table.php:71
+msgid "Button Text"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:86
+msgid "Button text"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:385
+#: woocommerce/myaccount/my-orders.php:73
+msgid "Cancel"
+msgstr ""
+
+#: framework/functions/comment.php:52
+msgid "Cancel reply"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:52
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: single-project.php:158 page-templates/archive-template.php:77
+#: page-templates/sitemap-template.php:44 framework/headers/header-v4.php:39
+msgid "Categories"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:41
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:34
+msgid "Category"
+msgstr ""
+
+#: archive.php:10 index.php:22
+#, php-format
+msgid "Category : %s"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:137
+#: framework/extension/extendvc/vc_generate/custom_product_by_category.php:43
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:136
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:122
+#: framework/extension/extendvc/vc_generate/woo_product.php:20
+msgid "Category Slug"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:54
+msgid "Category Widget Area"
+msgstr ""
+
+#: framework/functions/woo-cart.php:111 framework/functions/woo-cart.php:217
+#: woocommerce/cart/mini-cart.php:81
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:46
+msgid "Checkout as Guest"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:38
+msgid "Checkout Method"
+msgstr ""
+
+#: framework/functions/woo-cart.php:115 framework/functions/woo-cart.php:221
+msgid "checkoutBag subtotal"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:55
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "City"
+msgstr ""
+
+#: framework/functions/user_avatar.php:14
+msgid "Clear Image"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:90
+msgid "Clear selection"
+msgstr ""
+
+#: framework/widgets/coupon.php:36 woocommerce/checkout/form-coupon.php:16
+msgid "Click here to enter code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:16
+msgid "Click here to login"
+msgstr ""
+
+#: single-project.php:148
+msgid "Client"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/code.php:26
+msgid "Code"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/tabs.php:40
+msgid "Color"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:271
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:64
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:79
+#: framework/extension/extendvc/vc_generate/child_categories.php:38
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:79
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:357
+#: framework/extension/extendvc/vc_generate/portfolio.php:28
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:36
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:36
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:77
+#: framework/extension/extendvc/vc_generate/recent_products.php:61
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:66
+#: framework/extension/extendvc/vc_generate/sale_products.php:95
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:57
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:28
+#: framework/extension/extendvc/vc_generate/wd_gallery.php:42
+#: framework/extension/extendvc/vc_generate/wd_projects.php:27
+#: framework/extension/extendvc/vc_generate/woo-best-selling-products.php:26
+#: framework/extension/extendvc/vc_generate/woo-featured_products.php:26
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:26
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:25
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:67
+#: framework/extension/extendvc/vc_generate/woo-products.php:36
+#: framework/extension/extendvc/vc_generate/woo-recent-products.php:26
+#: framework/extension/extendvc/vc_generate/woo-sale-products.php:26
+#: framework/extension/extendvc/vc_generate/woo-top-rated-products.php:26
+msgid "Columns"
+msgstr ""
+
+#: content-blog-grid.php:106 content-blog-grid.php:107 content-blog.php:121
+#: content-blog.php:122 content.php:121 content.php:122 single-portfolio.php:90
+#: single-portfolio.php:91 single.php:155 single.php:156
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: page-templates/archive-template.php:69
+#: page-templates/sitemap-template.php:68 framework/widgets/ew_multitab.php:16
+msgid "Comments"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the template
+msgid "Comming Soon"
+msgstr ""
+
+#: framework/functions/woo-hook.php:359
+msgid "Compare"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Confirm New Password"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Template"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_ads_sidebar.php:39
+#: framework/extension/extendvc/vc_generate/banner.php:48
+#: framework/extension/extendvc/vc_generate/feedbuner.php:25
+#: framework/extension/extendvc/vc_generate/heading.php:54
+#: framework/extension/extendvc/vc_generate/pricing_table.php:91
+#: framework/extension/extendvc/vc_generate/quote.php:35
+#: framework/extension/extendvc/vc_generate/tabs.php:50
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:118
+msgid "Content"
+msgstr ""
+
+#: framework/includes/metaboxes.php:46
+msgid "Content - Left Sidebar"
+msgstr ""
+
+#: framework/includes/metaboxes.php:45
+msgid "Content - No Sidebar"
+msgstr ""
+
+#: framework/includes/metaboxes.php:47
+msgid "Content - Right Sidebar"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:78
+msgid "Content In Grid"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:56
+#: woocommerce/checkout/form-checkout.php:110
+#: woocommerce/checkout/form-checkout.php:131
+#: woocommerce/checkout/form-checkout.php:158
+msgid "Continue"
+msgstr ""
+
+#. %s: Name of current post
+#: content.php:140
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: framework/functions/filter_theme.php:42
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: framework/widgets/coupon.php:38 woocommerce/checkout/form-coupon.php:18
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:58
+msgid "Coupon:"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:38
+msgid "Cover url"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:76
+msgid "Create an account"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:95
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:47
+msgid "Create an Account with Us"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:86
+msgid "Create an account?"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:127
+msgid "CSS Animation"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:199
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:33
+msgid "Currency"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: framework/functions/user_avatar.php:9
+msgid "Custom atatar URL:"
+msgstr ""
+
+#: framework/functions/user_avatar.php:4
+msgid "Custom Avatar"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:149
+msgid "Custom Class"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/quote.php:26
+msgid "Custom class"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_layout.php:28
+#: framework/includes/metaboxes/custom_layout.php:29
+msgid "Custom Layout"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:48
+msgid "Custom Size (px)"
+msgstr ""
+
+#: single-project.php:153 woocommerce/myaccount/my-orders.php:31
+msgid "Date"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/countdown.php:24
+msgid "Day"
+msgstr ""
+
+#: archive.php:20 index.php:32
+#, php-format
+msgid "Day : %s"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/sale_products.php:127
+msgid "Deals filter"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/sale_products.php:75
+msgid "Deals product params"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:51
+msgid "Delivered by"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:211
+#: framework/functions/woo-hook.php:405
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:44
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:69
+#: framework/extension/extendvc/vc_generate/child_categories.php:54
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:69
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:338
+#: framework/extension/extendvc/vc_generate/recent_products.php:43
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:54
+#: framework/extension/extendvc/vc_generate/sale_products.php:54
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:46
+msgid "Description"
+msgstr ""
+
+#: framework/widgets/best_selling_product.php:157
+#: framework/widgets/hot_product.php:146
+#: framework/widgets/recent_product.php:165
+#: framework/widgets/wd_woo_products.php:222
+msgid "Description limit"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:406
+#: framework/extension/extendvc/vc_generate/recent_products.php:111
+#: framework/extension/extendvc/vc_generate/sale_products.php:162
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:76
+#: framework/extension/extendvc/vc_generate/wd_projects.php:55
+#: framework/extension/extendvc/vc_generate/woo-best-selling-products.php:54
+#: framework/extension/extendvc/vc_generate/woo-featured_products.php:54
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:54
+#: framework/extension/extendvc/vc_generate/woo-products.php:64
+#: framework/extension/extendvc/vc_generate/woo-recent-products.php:54
+#: framework/extension/extendvc/vc_generate/woo-sale-products.php:54
+#: framework/extension/extendvc/vc_generate/woo-top-rated-products.php:54
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Discount code"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:315
+msgid "Display a Widget Area"
+msgstr ""
+
+#: framework/widgets/coupon.php:9
+msgid "Display coupon form"
+msgstr ""
+
+#: framework/widgets/ew_social.php:9
+msgid "Display Social Profiles"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:9
+msgid "Display Subscriptions Form"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:119
+msgid "Distance (px)"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Easy access to your dorder history and status."
+msgstr ""
+
+#: content-blog.php:108 content.php:108 single-portfolio.php:80
+#: single-project.php:78 single.php:125 page-templates/contact-template.php:25
+msgid "Edit"
+msgstr ""
+
+#: framework/functions/main.php:506
+msgid "Edit account"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "edit account"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:36
+msgid "edit address"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:150
+#: framework/functions/wdmenus-admin.php:152
+msgid "Edit Menu Item"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:112
+msgid "email"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:90
+msgid "Enable parallax"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:36
+msgid "Enter a new password below."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:118
+msgid "Enter product id"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:84
+msgid "Enter product id & Separator by \",\" sign"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:90
+msgid "Enter your Button"
+msgstr ""
+
+#: woocommerce/cart/cart.php:163
+msgid "Enter your coupon code if your have one"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:46
+msgid "enter your email address"
+msgstr ""
+
+#: framework/widgets/ew_social.php:98
+msgid "Enter your Facebook ID"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:106
+msgid "Enter your Feedburner ID"
+msgstr ""
+
+#: framework/widgets/ew_social.php:104
+msgid "Enter your Google+ ID"
+msgstr ""
+
+#: framework/widgets/ew_social.php:110
+msgid "Enter your Instagram"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:88
+msgid "Enter your Intro Text"
+msgstr ""
+
+#: framework/widgets/ew_social.php:116
+msgid "Enter your Linkedin"
+msgstr ""
+
+#: framework/widgets/ew_social.php:107
+msgid "Enter your Pinterest ID"
+msgstr ""
+
+#: framework/widgets/ew_social.php:95 framework/widgets/ew_subscriptions.php:85
+msgid "Enter your title"
+msgstr ""
+
+#: framework/widgets/ew_social.php:101
+msgid "Enter your Twitter ID"
+msgstr ""
+
+#: framework/widgets/ew_social.php:113
+msgid "Enter your Youtube"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:183
+msgid "Error 404"
+msgstr ""
+
+#: admin/functions/functions.php:71
+msgid "Error: Color theme are using, you can't remove it."
+msgstr ""
+
+#: admin/functions/functions.php:66
+msgid "Error: Color theme files are not exist."
+msgstr ""
+
+#: admin/functions/functions.php:117
+msgid "Error: Color theme slug exist."
+msgstr ""
+
+#: admin/functions/functions.php:126
+msgid "Error: Extracting file is error."
+msgstr ""
+
+#: admin/functions/functions.php:113
+msgid "Error: Import color theme not success."
+msgstr ""
+
+#: admin/functions/functions.php:130
+msgid "Error: Upload file is error"
+msgstr ""
+
+#: admin/functions/functions.php:121
+msgid "Error: XML syntax error."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:82
+msgid "Ex: 400px, 5em, ..."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:87
+msgid "Ex:fa fa-home (use font Awesome icon)"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:63
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:72
+msgid "Example [product_attribute attribute='color' filter='black']"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:226
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:225
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:211
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:184
+#: framework/extension/extendvc/vc_generate/testimonial.php:145
+msgid "Excerpt word number"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:137
+msgid "Excerpt Words Limit"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_projects.php:67
+msgid "Exclude Categories"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:912
+msgid "Export"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:912
+msgid "Exporting the colour being applied"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:160
+msgid "Extra class name"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Fast and easy checkout."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:30
+#: framework/extension/extendvc/vc_generate/feature.php:63
+msgid "Feature"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-featured_products.php:8
+msgid "Featured Products"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:51
+msgid "FeedBurner"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feedbuner.php:16
+msgid "Feedburner ID"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feedbuner.php:6
+msgid "Feedburner Subscription"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:68
+msgid "Filter"
+msgstr ""
+
+#: framework/functions/pagination.php:106
+msgid "First"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:130
+msgid "First Footer Widget Area 1"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:139
+msgid "First Footer Widget Area 2"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:148
+msgid "First Footer Widget Area 3"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:33
+msgid "First name"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:100
+msgid "Fixed image"
+msgstr ""
+
+#: framework/widgets/ew_social.php:42 framework/widgets/ew_social.php:54
+msgid "Follow us"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:121
+msgid "Font Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:26
+msgid "Font size"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:87
+msgid "Footer layout Style"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:121
+msgid "For example: 10"
+msgstr ""
+
+#: framework/functions/woo-account.php:64
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+msgid "Forgot your Password?"
+msgstr ""
+
+#: framework/functions/main.php:510
+msgid "Forgotten Password"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:43
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#. Name of the template
+msgid "Full-width Template"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/gap.php:14
+msgid "Gap height"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:152
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:151
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:136
+msgid "Get all products have this tag"
+msgstr ""
+
+#: framework/widgets/ew_social.php:46
+msgid "Get updates"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Good"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:77
+msgid "GrandTotal"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:16
+msgid "Have A Coupon?"
+msgstr ""
+
+#: framework/widgets/coupon.php:36
+msgid "Have a coupon?"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:58
+msgid "Header layout Style"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:34
+msgid "Header Middle Slidshow Widget Area"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:97
+msgid "Header Style"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:15
+msgid "Header Top Left Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:24
+msgid "Header Top Right Widget Area"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:20
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:34
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:34
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:314
+#: framework/extension/extendvc/vc_generate/heading.php:16
+#: framework/extension/extendvc/vc_generate/recent_products.php:19
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:19
+#: framework/extension/extendvc/vc_generate/sale_products.php:19
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:22
+#: framework/extension/extendvc/vc_generate/testimonial.php:39
+#: framework/extension/extendvc/vc_generate/wd_product_brand.php:18
+msgid "Heading"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:43
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:43
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:28
+#: framework/extension/extendvc/vc_generate/sale_products.php:28
+msgid "Heading Style"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:78
+#: framework/extension/extendvc/vc_generate/team_member.php:72
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:80
+msgid "Height"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:38
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: framework/includes/functions/tooltip.php:2
+msgid "Help"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:55
+msgid "Hidden on Phones"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:158
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:109
+msgid "Hide empty"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:167
+msgid "Hide Page Title"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:176
+msgid "Hide Top Content Widget Area"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:19
+msgid "Home"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:72
+msgid "Home 5 Right Widget Area "
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:63
+msgid "Home Right Widget Area"
+msgstr ""
+
+#: framework/includes/metaboxes/showbreakingnews.php:2
+msgid "Homepage Hot News "
+msgstr ""
+
+#: framework/widgets/hot_product.php:12
+msgid "Hot Products"
+msgstr ""
+
+#. URI of the theme
+msgid "http://wpdance.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://wpdance.com/"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:55
+msgid "Icon"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:96
+msgid "Icon Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:92
+msgid "Icon color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:82
+msgid "Icon Feature"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:26
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:70
+#: framework/extension/extendvc/vc_generate/woo-product-page.php:24
+#: framework/extension/extendvc/vc_generate/woo-product.php:31
+msgid "ID"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/sale_product_countdown.php:19
+msgid "ID Product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-products.php:26
+msgid "IDs"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:21
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:162
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_gallery.php:26
+msgid "Image"
+msgstr ""
+
+#: framework/widgets/emads.php:70
+msgid "Image Height"
+msgstr ""
+
+#: framework/widgets/emads.php:66
+msgid "Image title"
+msgstr ""
+
+#: framework/widgets/emads.php:62
+msgid "Image Url"
+msgstr ""
+
+#: framework/widgets/emads.php:68
+msgid "Image Width"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:910
+msgid "Import"
+msgstr ""
+
+#: admin/functions/functions.php:110
+msgid "Import success!"
+msgstr ""
+
+#: framework/widgets/ew_multitab.php:106
+msgid "in"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/gap.php:18
+msgid "In pixels."
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:30
+msgid "In Pixels. Text font size"
+msgstr ""
+
+#: framework/functions/woo-product.php:18
+#: framework/functions/woo-product.php:23
+#: framework/functions/woo-product.php:43
+#: framework/functions/woo-product.php:64
+msgid "In stock"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:113
+msgid "Input \"breadcrumb\" or shortcode string for custom post thumbnail."
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:121
+msgid ""
+"Input mp3 URL. This audio shows on the single post instead of the post "
+"thumbnail"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:135
+msgid ""
+"Input ogg URL. This audio shows on the single post instead of the post "
+"thumbnail"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:132
+msgid "Input Opacity Number. Min: 0, Max: 100"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:122
+msgid "Input URL you want it to link to"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:128
+msgid ""
+"Input wav URL. This audio shows on the single post instead of the post "
+"thumbnail"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:58
+msgid "Input your description or it will load description of category"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:143
+msgid ""
+"Input Youtube, Vimeo or Dailymotion video URL. This video shows on the "
+"single post instead of the post thumbnail"
+msgstr ""
+
+#: framework/functions/filter_theme.php:378
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/functions/filter_theme.php:377
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/functions/filter_theme.php:379
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: 404.php:38
+msgid ""
+"It looks like nothing was found at this location. Maybe try to use a search?"
+msgstr ""
+
+#: content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/functions/woo-cart.php:35
+msgid "Item"
+msgid_plural "Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart.php:25
+msgid "Items"
+msgstr ""
+
+#: framework/functions/main.php:79
+msgid "Join for free"
+msgstr ""
+
+#: woocommerce/myaccount/review-order.php:30 woocommerce/order/tracking.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: framework/functions/pagination.php:126
+msgid "Last"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:608
+msgid "Last Backup : "
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Last name"
+msgstr ""
+
+#: framework/widgets/ew_multitab.php:15
+msgid "Latest News"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:35
+msgid "Layout"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:33
+msgid "Layout Style"
+msgstr ""
+
+#: framework/functions/comment.php:50
+msgid "Leave a comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82 framework/functions/comment.php:51
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_layout.php:47
+#: framework/includes/metaboxes/custom_post_layout.php:65
+#: framework/includes/metaboxes/page_configuration.php:119
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/widgets/customrecent.php:116
+#: framework/widgets/recent_post_slider.php:122
+#: framework/widgets/recent_product.php:171
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:55
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:125
+#: framework/extension/extendvc/vc_generate/custom_product_by_category.php:32
+#: framework/extension/extendvc/vc_generate/feature.php:72
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:125
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:348
+#: framework/extension/extendvc/vc_generate/portfolio.php:84
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:86
+#: framework/extension/extendvc/vc_generate/recent_products.php:52
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:111
+#: framework/extension/extendvc/vc_generate/sale_products.php:86
+#: framework/extension/extendvc/vc_generate/testimonial.php:97
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:19
+#: framework/extension/extendvc/vc_generate/wd_projects.php:60
+#: framework/extension/extendvc/vc_generate/woo-best-selling-products.php:17
+#: framework/extension/extendvc/vc_generate/woo-featured_products.php:17
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:17
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:15
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:57
+#: framework/extension/extendvc/vc_generate/woo-recent-products.php:17
+#: framework/extension/extendvc/vc_generate/woo-related-product.php:15
+#: framework/extension/extendvc/vc_generate/woo-sale-products.php:17
+#: framework/extension/extendvc/vc_generate/woo-top-rated-products.php:17
+msgid "Limit"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:176
+msgid "Limit Excerpt Words"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:230
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:229
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:215
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:188
+#: framework/extension/extendvc/vc_generate/testimonial.php:149
+msgid "Limit number of Excerpt words"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:129
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:129
+msgid "Limit number of product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/custom_product_by_category.php:36
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:115
+msgid "Limit number of products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:21
+#: framework/extension/extendvc/vc_generate/button.php:118
+#: framework/extension/extendvc/vc_generate/icon.php:142
+#: framework/extension/extendvc/vc_generate/pricing_table.php:49
+msgid "Link"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:205
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:51
+msgid "List categories in store shortcode"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:9
+msgid "List products in a category shortcode"
+msgstr ""
+
+#: framework/functions/header_function.php:167
+msgid "Log in/Sign up"
+msgstr ""
+
+#: framework/functions/comment.php:45
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: framework/functions/main.php:508 framework/functions/woo-account.php:29
+#: framework/functions/woo-account.php:61 framework/widgets/coupon.php:42
+#: woocommerce/global/form-login.php:33 woocommerce/myaccount/form-login.php:54
+#: woocommerce/myaccount/form-login.php:74
+msgid "Login"
+msgstr ""
+
+#: framework/functions/header_function.php:53
+msgid "Login / Register"
+msgstr ""
+
+#: framework/functions/main.php:504 framework/functions/woo-account.php:72
+#: framework/functions/woo-account.php:72
+msgid "Logout"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:139
+msgid "Loop"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "lost password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:77
+msgid "Main content layout Style"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:67
+msgid "Main slide layout Style"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:100
+msgid "Margin"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:112
+msgid "Margin (px)"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:114
+msgid "Margin (top right bottom left - 5px 5px 5px 5px)"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:224
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:52
+msgid "Member"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:47
+msgid "Minimum height"
+msgstr ""
+
+#: framework/abstract.php:116
+msgid "Mobile Navigation"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/countdown.php:33
+msgid "Month"
+msgstr ""
+
+#: archive.php:24 index.php:36
+#, php-format
+msgid "Month : %s"
+msgstr ""
+
+#: page-templates/archive-template.php:86
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:24 index.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: framework/functions/wdmenus.php:454
+msgid "More "
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:238
+msgid "More hidden"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:148
+msgid "Move down"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:135
+msgid "Move up"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:119
+msgid "Mp3 URL"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:56
+msgid "MP4 url"
+msgstr ""
+
+#: framework/functions/header_function.php:50
+#: framework/functions/header_function.php:172 framework/functions/main.php:505
+#: framework/functions/woo-account.php:25
+#: framework/functions/woo-account.php:27
+#: framework/functions/woo-account.php:71
+#: framework/functions/woo-account.php:71
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:32
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Name"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:249
+#: framework/extension/extendvc/vc_generate/child_categories.php:108
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:249
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:235
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:209
+#: framework/extension/extendvc/vc_generate/testimonial.php:166
+msgid "Nav Position"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:168
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/functions/woo-hook.php:277
+#: woocommerce/single-product/sale-flash.php:27
+msgid "New"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:44
+msgid "New Customer"
+msgstr ""
+
+#: framework/functions/woo-account.php:65
+msgid "New Customer ?"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:21
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: framework/functions/pagination.php:125
+msgid "Next"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: archive.php:128
+msgid "Next Entries"
+msgstr ""
+
+#: framework/extension/extendvc/vc_templates/vc_tabs.php:54
+msgid "Next tab"
+msgstr ""
+
+#: page-templates/compare.php:37
+msgid "No products added in the compare table."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:67
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:101
+msgid "Number of comments to show"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:44
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:44
+msgid "Number of products for each sub category"
+msgstr ""
+
+#: framework/widgets/wd_woo_products.php:228
+msgid "Number of products to show:"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:46
+msgid "Number of sub categories"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:133
+msgid "OGG URL"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:72
+msgid "Ogv url"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/woo-product.php:23
+#, php-format
+msgid "Only %s left in stock"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:89
+msgid "Only for Square type"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:116
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: archive.php:62 index.php:74
+msgid "OOPS! FILE NOT FOUND"
+msgstr ""
+
+#: 404.php:35
+msgid "Oops! That page can not be found"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:128
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:101
+msgid "Opacity"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:194
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: admin/front-end/options.php:74
+msgid "Options Reset"
+msgstr ""
+
+#: framework/widgets/wd_woo_products.php:216
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/review-order.php:20
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark "
+"class=\"order-date\">%s</mark> and is currently <mark class=\"order-status\">"
+"%s</mark>."
+msgstr ""
+
+#: woocommerce/order/tracking.php:12
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:387
+#: framework/extension/extendvc/vc_generate/recent_products.php:91
+#: framework/extension/extendvc/vc_generate/sale_products.php:142
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:57
+#: framework/extension/extendvc/vc_generate/wd_projects.php:35
+#: framework/extension/extendvc/vc_generate/woo-best-selling-products.php:35
+#: framework/extension/extendvc/vc_generate/woo-featured_products.php:35
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:35
+#: framework/extension/extendvc/vc_generate/woo-products.php:45
+#: framework/extension/extendvc/vc_generate/woo-recent-products.php:35
+#: framework/extension/extendvc/vc_generate/woo-sale-products.php:35
+#: framework/extension/extendvc/vc_generate/woo-top-rated-products.php:35
+msgid "Order By"
+msgstr ""
+
+#: framework/widgets/wd_woo_products.php:208
+msgid "Order by"
+msgstr ""
+
+#: woocommerce/order/order-details.php:25
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:99
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/myaccount/review-order.php:24 woocommerce/order/tracking.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:400
+#: framework/extension/extendvc/vc_generate/recent_products.php:104
+#: framework/extension/extendvc/vc_generate/sale_products.php:155
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:70
+#: framework/extension/extendvc/vc_generate/wd_projects.php:49
+#: framework/extension/extendvc/vc_generate/woo-best-selling-products.php:48
+#: framework/extension/extendvc/vc_generate/woo-featured_products.php:48
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:48
+#: framework/extension/extendvc/vc_generate/woo-products.php:58
+#: framework/extension/extendvc/vc_generate/woo-recent-products.php:48
+#: framework/extension/extendvc/vc_generate/woo-sale-products.php:48
+#: framework/extension/extendvc/vc_generate/woo-top-rated-products.php:48
+msgid "Order way"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:371
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"our default theme lets you create a strongest website with many features."
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:29
+#: woocommerce/single-product/review.php:36
+msgid "out of 5"
+msgstr ""
+
+#: framework/functions/woo-product.php:46
+#: framework/functions/woo-product.php:56
+#: framework/functions/woo-product.php:61
+msgid "Out of stock"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:109
+msgid "Padding"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:189
+#: framework/functions/breadcrumbs.php:196
+msgid "Page"
+msgstr ""
+
+#: framework/widgets/custompages.php:66
+msgid "Page ID"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_layout.php:34
+#: framework/includes/metaboxes/custom_post_layout.php:52
+#: framework/includes/metaboxes/page_configuration.php:107
+msgid "Page Layout"
+msgstr ""
+
+#: 404.php:32
+msgid "Page not found"
+msgstr ""
+
+#: framework/widgets/custompages.php:65
+msgid "Page order"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:186
+msgid "Page Slider"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:201
+msgid "Page Slider position"
+msgstr ""
+
+#: framework/widgets/custompages.php:64
+msgid "Page title"
+msgstr ""
+
+#: page-templates/sitemap-template.php:36 framework/widgets/custompages.php:12
+#: framework/widgets/productaz.php:33
+msgid "Pages"
+msgstr ""
+
+#: content-page.php:16 content.php:144 page-templates/contact-template.php:22
+msgid "Pages:"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:110
+msgid "Parallax speed"
+msgstr ""
+
+#: framework/functions/woo-account.php:50 woocommerce/global/form-login.php:25
+#: woocommerce/myaccount/form-login.php:65
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:117
+msgid "password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:46
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:66
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:97
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:62
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Perfect"
+msgstr ""
+
+#: framework/widgets/customrecent.php:55
+#: framework/widgets/recent_post_slider.php:69
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: single-project.php:111 single.php:227 page-templates/comming-soon.php:45
+#: woocommerce/single-product/share.php:37
+msgid "Pin it"
+msgstr ""
+
+#: framework/functions/filter_theme.php:129
+msgid "Pingback:"
+msgstr ""
+
+#: framework/functions/woo-hook.php:635
+msgctxt "placeholder"
+msgid "Comfirm Password"
+msgstr ""
+
+#: framework/functions/woo-hook.php:629
+msgctxt "placeholder"
+msgid "Password"
+msgstr ""
+
+#: framework/functions/woo-hook.php:623
+msgctxt "placeholder"
+msgid "Username"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:110
+msgid "Play Button Margin top"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:222
+msgid "Please Create A Revolution Slider."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "Please select the required options to display prices"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: framework/functions/filter_theme.php:392
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:60
+#: framework/functions/breadcrumbs.php:95
+#: framework/extension/extendvc/vc_generate/portfolio.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_ads_sidebar.php:43
+msgid "Position"
+msgstr ""
+
+#: framework/widgets/recent_post_slider.php:76
+msgid "POST BY"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:111
+msgid "Post Thumbnail Shortcode"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:98
+msgid "Post type"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:88
+msgid "Postcode / Zip"
+msgstr ""
+
+#: page-templates/sitemap-template.php:54
+msgid "Posts per category"
+msgstr ""
+
+#: archive.php:126
+msgid "Prev Entries"
+msgstr ""
+
+#: framework/functions/pagination.php:107
+msgid "Previous"
+msgstr ""
+
+#: framework/extension/extendvc/vc_templates/vc_tabs.php:54
+msgid "Previous tab"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+#: woocommerce/single-product/add-to-cart/grouped.php:40
+#: woocommerce/single-product/add-to-cart/variable.php:97
+#: framework/extension/extendvc/vc_generate/pricing_table.php:25
+msgid "Price"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:41
+msgid "Price Period"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:6
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/abstract.php:112
+msgid "Primary Navigation"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:6
+msgid "Primary Widget Area"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:15
+#: woocommerce/order/order-details.php:30
+#: framework/extension/extendvc/vc_generate/woo-product.php:8
+msgid "Product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-attribute.php:8
+msgid "Product Attribute"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:30
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:52
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:52
+msgid "Product Categories"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:5
+msgid "Product Category"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:123
+#: framework/functions/theme_sidebar.php:132
+#: framework/functions/theme_sidebar.php:141
+#: framework/functions/theme_sidebar.php:150
+#: framework/functions/theme_sidebar.php:168
+#: framework/functions/theme_sidebar.php:179
+#: framework/functions/theme_sidebar.php:188
+#: framework/functions/theme_sidebar.php:197
+#: framework/functions/theme_sidebar.php:206
+msgid "Product default sidebar widget area"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:13
+msgid "Product Description"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:80
+msgid "Product List"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:70
+msgid "product number visible on slider"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-page.php:5
+msgid "Product Page"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:13
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:148
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:147
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:132
+msgid "Product Tags"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:121
+msgid "Product Widget Area"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-products.php:8
+msgid "Products"
+msgstr ""
+
+#: framework/widgets/best_selling_product.php:160
+#: framework/widgets/hot_product.php:149
+#: framework/widgets/recent_product.php:168
+#: framework/widgets/wd_woo_products.php:225
+msgid "Products thumb columns"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/progress_bar.php:17
+msgid "Progress Bar"
+msgstr ""
+
+#: single-project.php:132
+msgid "Project Description"
+msgstr ""
+
+#: single-project.php:136
+msgid "Project Detail"
+msgstr ""
+
+#: archive-project.php:6
+msgid "Projects"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:12
+msgid "qty"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/grouped.php:52
+msgid "Quanglity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/checkout/review-order.php:37
+#: woocommerce/single-product/add-to-cart/simple.php:37
+#: woocommerce/single-product/add-to-cart/variable.php:108
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product/short-description.php:18
+msgid "Quick Overview"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/quote.php:17
+msgid "Quote"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:56
+msgid "Radius Style"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/review.php:35
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:29
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Rating"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:25
+#: woocommerce/myaccount/form-lost-password.php:43
+msgid "Re-enter new password"
+msgstr ""
+
+#: content-blog-grid.php:118 content-blog.php:132
+msgid "Read more"
+msgstr ""
+
+#: content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: framework/widgets/customrecent.php:24
+#: framework/widgets/recent_post_slider.php:25
+#: framework/widgets/recent_product.php:28
+msgid "Recent"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:21
+msgid "Recent Blogs"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:159
+msgid "Recent Blogs sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:157
+msgid "Recent Blogs Widget Area "
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:40
+msgid "Recent Comments"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:24
+msgid "Recent Orders"
+msgstr ""
+
+#: framework/functions/main.php:509 woocommerce/myaccount/form-login.php:131
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:91
+msgid "register"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Register with us for future convenience:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1395
+msgid "RELATED ITEMS"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:37
+msgid "Related Items"
+msgstr ""
+
+#: admin/functions/functions.options.php:1725
+msgid "Related Posts"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-related-product.php:5
+msgid "Related Product"
+msgstr ""
+
+#: woocommerce/global/form-login.php:36 woocommerce/myaccount/form-login.php:77
+msgid "Remember me"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:913
+#: framework/functions/wdmenus-admin.php:384
+#: framework/includes/metaboxes/custom_ads_sidebar.php:31
+msgid "Remove"
+msgstr ""
+
+#: framework/functions/woo-cart.php:81 framework/functions/woo-cart.php:185
+#: woocommerce/cart/cart.php:117 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: framework/functions/comment.php:40
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: framework/functions/header_function.php:332
+msgid "Reset"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:56
+msgid "Reset Password"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:12
+msgid "Responsive Tab Items"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:13
+msgid "Responsive Tab Items full width?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Return Customer"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#: framework/functions/filter_theme.php:391
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: framework/functions/woo-hook.php:414
+#, php-format
+msgid "Reviews (%d)"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:212
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_layout.php:63
+#: framework/includes/metaboxes/custom_post_layout.php:81
+#: framework/includes/metaboxes/page_configuration.php:133
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:90
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:90
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:77
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:68
+msgid "Row"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:24
+msgid "Row Type"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:76
+msgid "Rows"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-sale-products.php:8
+msgid "Sale Products"
+msgstr ""
+
+#: framework/widgets/wd_woo_products.php:17
+msgid "Sales Off"
+msgstr ""
+
+#: framework/functions/woo-hook.php:273
+#: woocommerce/myaccount/form-change-password.php:30
+#: woocommerce/myaccount/form-lost-password.php:56
+#: woocommerce/single-product/sale-flash.php:23
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:48
+msgid "Save Address"
+msgstr ""
+
+#: admin/front-end/options.php:49 admin/front-end/options.php:73
+msgid "Save All Changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:66
+msgid "Save changes"
+msgstr ""
+
+#: framework/functions/header_function.php:203
+#: framework/functions/header_function.php:206
+#: framework/functions/header_function.php:225
+msgid "Search"
+msgstr ""
+
+#: framework/functions/header_function.php:205
+#: framework/functions/header_function.php:224
+msgid "Search here..."
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:43
+msgid "Search results for \""
+msgstr ""
+
+#: archive.php:15 index.php:27
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:166
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: framework/widgets/ew_social.php:50
+msgid "See Us"
+msgstr ""
+
+#: framework/widgets/ew_social.php:62
+msgid "See us"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:26
+msgid "Select a country"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_layout.php:29
+msgid ""
+"Select custom layout for product page.Using general product page config by "
+"default"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:123
+msgid "Select font color"
+msgstr ""
+
+#: framework/functions/user_avatar.php:13
+msgid "Select Image"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_projects.php:69
+msgid "Separated by \",\""
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:254
+msgid "Set Icon Image"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:327
+msgid "Set Image"
+msgstr ""
+
+#: single-project.php:98 single.php:214 page-templates/comming-soon.php:32
+#: woocommerce/single-product/share.php:24
+msgid "share on facebook"
+msgstr ""
+
+#: single-project.php:106 single.php:222 page-templates/comming-soon.php:40
+#: woocommerce/single-product/share.php:32
+msgid "share on Google +"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:22 woocommerce/cart/cart-shipping.php:97
+#: woocommerce/cart/cart-totals.php:45
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "shipping & tax"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:150
+#: woocommerce/myaccount/form-edit-address.php:22
+#: woocommerce/myaccount/my-address.php:29
+msgid "Shipping Address"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:63
+#: framework/functions/breadcrumbs.php:98
+#: framework/functions/breadcrumbs.php:102
+msgid "Shop"
+msgstr ""
+
+#: framework/functions/wdmenus-init.php:23
+msgid "shop by departments"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:101
+msgid "Shop Left Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:111
+msgid "Shop Right Widget Area"
+msgstr ""
+
+#: framework/functions/woo-cart.php:44 framework/functions/woo-cart.php:146
+#: framework/functions/woo-cart.php:206
+msgid "shopping cart"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:85
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:378
+#: framework/extension/extendvc/vc_generate/recent_products.php:82
+#: framework/extension/extendvc/vc_generate/sale_products.php:118
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:48
+msgid "Shortcontent limit"
+msgstr ""
+
+#: framework/widgets/wd_woo_products.php:201
+msgid "Show"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-page.php:9
+msgid "Show a single product page"
+msgstr ""
+
+#: framework/widgets/best_selling_product.php:6
+#: framework/widgets/wd_woo_products.php:6
+msgid "Show Best Selling Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/custom_product_by_category.php:53
+msgid "Show Category Name"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/sale_products.php:181
+msgid "Show Countdown"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/portfolio.php:72
+msgid "Show Description"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:125
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:132
+msgid "Show Excerpt"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/portfolio.php:49
+msgid "Show Filter"
+msgstr ""
+
+#: framework/widgets/hot_product.php:6
+msgid "Show Hot Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:101
+msgid "Show Icon"
+msgstr ""
+
+#: framework/widgets/customrecent.php:110
+#: framework/extension/extendvc/vc_generate/testimonial.php:108
+msgid "Show Image"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:105
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:105
+msgid "Show label"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/testimonial.php:120
+msgid "Show Meta Time"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:236
+#: framework/extension/extendvc/vc_generate/child_categories.php:95
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:237
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:223
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:196
+#: framework/extension/extendvc/vc_generate/testimonial.php:154
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:97
+msgid "Show Nav"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:95
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:412
+#: framework/extension/extendvc/vc_generate/recent_products.php:117
+#: framework/extension/extendvc/vc_generate/sale_products.php:168
+msgid "Show Number"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:264
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:264
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:250
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:224
+msgid "Show Pagination"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:120
+msgid "Show Post Meta"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:45
+msgid "Show Price"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:82
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:82
+msgid "Show price"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:128
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:128
+msgid "Show Product Button"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:149
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:200
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:199
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:466
+#: framework/extension/extendvc/vc_generate/recent_products.php:172
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:185
+#: framework/extension/extendvc/vc_generate/sale_products.php:236
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:158
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:124
+msgid "Show product buttons"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:60
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:60
+msgid "Show product image"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:162
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:213
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:212
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:479
+#: framework/extension/extendvc/vc_generate/recent_products.php:185
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:198
+#: framework/extension/extendvc/vc_generate/sale_products.php:249
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:171
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:137
+msgid "Show Product Label"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:122
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:173
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:172
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:439
+#: framework/extension/extendvc/vc_generate/recent_products.php:145
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:158
+#: framework/extension/extendvc/vc_generate/sale_products.php:209
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:131
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:97
+msgid "Show Product Price"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:136
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:187
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:186
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:453
+#: framework/extension/extendvc/vc_generate/recent_products.php:159
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:172
+#: framework/extension/extendvc/vc_generate/sale_products.php:223
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:145
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:111
+msgid "Show Product Rating"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:107
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:158
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:157
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:424
+#: framework/extension/extendvc/vc_generate/recent_products.php:130
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:143
+#: framework/extension/extendvc/vc_generate/sale_products.php:194
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:116
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:82
+msgid "Show Product Title"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:71
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:71
+msgid "Show product title"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:94
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:94
+msgid "Show rating"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:144
+msgid "Show Read More"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/testimonial.php:132
+msgid "Show Short Content"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:181
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:124
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:124
+msgid "Show short content of each product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:174
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:117
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:117
+msgid "Show Short Content of Product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:96
+msgid "Show Thumbnail"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:113
+#: framework/extension/extendvc/vc_generate/portfolio.php:60
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:108
+msgid "Show Title"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:100
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:99
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:86
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:90
+msgid "Show type"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:156
+msgid "Show View More Post"
+msgstr ""
+
+#: framework/functions/main.php:73
+msgid "Sign in"
+msgstr ""
+
+#: framework/functions/main.php:64
+msgid "Sign out"
+msgstr ""
+
+#: framework/functions/woo-account.php:65
+msgid "Sign up"
+msgstr ""
+
+#. Name of the template
+msgid "Sitemap Template"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/heading.php:26
+#: framework/extension/extendvc/vc_generate/icon.php:33
+#: framework/extension/extendvc/vc_generate/wd_gallery.php:33
+msgid "Size"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:15
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:80
+#: framework/extension/extendvc/vc_generate/woo-product-page.php:15
+#: framework/extension/extendvc/vc_generate/woo-product.php:18
+msgid "Sku"
+msgstr ""
+
+#: framework/functions/woo-hook.php:490
+msgid "sku: "
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-products.php:17
+msgid "Skus"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_projects.php:15
+msgid "Slider"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:293
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:288
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:274
+msgid "Slider base this element"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:56
+msgid "Slug of Team member item"
+msgstr ""
+
+#: framework/functions/preview_mod.php:23
+msgid "Something goes wrong!Please login again"
+msgstr ""
+
+#: framework/functions/filter_theme.php:380
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/functions/filter_theme.php:386
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/filter_theme.php:383
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/filter_theme.php:388
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/checkout/form-pay.php:87
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: framework/widgets/custompages.php:62
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:39
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Status"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/progress_bar.php:37
+msgid "Strip"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:93
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:73
+#: framework/extension/extendvc/vc_generate/feature.php:50
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:366
+#: framework/extension/extendvc/vc_generate/feedbuner.php:34
+#: framework/extension/extendvc/vc_generate/heading.php:42
+#: framework/extension/extendvc/vc_generate/portfolio.php:37
+#: framework/extension/extendvc/vc_generate/recent_products.php:70
+#: framework/extension/extendvc/vc_generate/sale_products.php:105
+#: framework/extension/extendvc/vc_generate/tabs.php:26
+#: framework/extension/extendvc/vc_generate/testimonial.php:74
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:37
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:36
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:85
+msgid "Style"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:293
+msgid "Sub Columns"
+msgstr ""
+
+#: framework/functions/comment.php:53
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Submit Review"
+msgstr ""
+
+#: framework/widgets/ew_social.php:58
+msgid "Subscribe our channel"
+msgstr ""
+
+#: framework/functions/woo-cart.php:98 framework/functions/woo-cart.php:202
+#: woocommerce/cart/cart-totals.php:23 woocommerce/cart/mini-cart.php:75
+msgid "Subtotal"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:180
+msgid "Sup Label"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:186
+msgid "Sup Label Background Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/tabs.php:16
+msgid "Tabs"
+msgstr ""
+
+#: archive.php:50 index.php:62
+#, php-format
+msgid "Tag : %s"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/breadcrumbs.php:104
+#: framework/functions/breadcrumbs.php:175
+msgid "Tagged \""
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: single-portfolio.php:146
+msgid "Tags"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: single.php:199
+msgid "Tags:"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/icon.php:149
+#: framework/extension/extendvc/vc_generate/pricing_table.php:57
+msgid "Target"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:29
+msgid "Team member"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/testimonial.php:30
+#: framework/extension/extendvc/vc_generate/testimonial.php:87
+msgid "Testimonial"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:99
+msgid "Text align"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:35
+msgid "Text Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:70
+msgid "Text color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:44
+msgid "Text Color On Hover"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:83
+#: framework/functions/theme_sidebar.php:93
+msgid "The Blog left sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:56
+#: framework/functions/theme_sidebar.php:103
+#: framework/functions/theme_sidebar.php:113
+msgid "The Category sidebar widget area"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:213
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: framework/functions/filter_theme.php:387
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/filter_theme.php:385
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/filter_theme.php:384
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/theme_sidebar.php:17
+#: framework/functions/theme_sidebar.php:26
+msgid "The Header top sidebar widget area - left"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:65
+#: framework/functions/theme_sidebar.php:74
+msgid "The Home left sidebar widget area"
+msgstr ""
+
+#: page-templates/archive-template.php:65
+msgid "The Latest 30 Posts"
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:5
+msgid "The most recent comments"
+msgstr ""
+
+#: framework/widgets/best_selling_product.php:163
+msgid "The number of best selling post"
+msgstr ""
+
+#: framework/widgets/ew_multitab.php:273
+msgid "The number of comment"
+msgstr ""
+
+#: framework/widgets/ew_multitab.php:270
+msgid "The number of latest post"
+msgstr ""
+
+#: framework/widgets/hot_product.php:152
+msgid "The number of popular post"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:8
+msgid "The primary sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:46
+msgid "The widget area top content"
+msgstr ""
+
+#. Author of the theme
+msgid "the Wpdance team"
+msgstr ""
+
+#. Name of the template
+msgid "Theme option extract"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:76 woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There don&lsquo;t seem to be available shipping methods. Please double check "
+"your address, or contact us if you need any help."
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:177
+msgid "Third Footer Widget Area 1"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:186
+msgid "Third Footer Widget Area 2"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:195
+msgid "Third Footer Widget Area 3"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:204
+msgid "Third Footer Widget Area 4"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_ads_sidebar.php:13
+msgid ""
+"This content show on top of left/right sidebar. Product must have a sidebar."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:136
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: framework/functions/filter_theme.php:382
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/filter_theme.php:381
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/widgets/productaz.php:5
+msgid "This widget show list a-z of your products"
+msgstr ""
+
+#: framework/widgets/custompages.php:5
+msgid "This widget show pages you select"
+msgstr ""
+
+#: framework/widgets/custompages.php:60 framework/widgets/customrecent.php:104
+#: framework/widgets/recent_comments_custom.php:98
+#: framework/widgets/recent_post_slider.php:116
+#: framework/widgets/recent_product.php:154
+#: framework/includes/metaboxes/custom_ads_sidebar.php:35
+#: framework/extension/extendvc/vc_generate/icon.php:24
+#: framework/extension/extendvc/vc_generate/pricing_table.php:16
+msgid "Title"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:174
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/widgets/best_selling_product.php:148
+msgid "Title for best selling tab:"
+msgstr ""
+
+#: framework/widgets/ew_multitab.php:267
+msgid "Title for comment tab"
+msgstr ""
+
+#: framework/widgets/ew_multitab.php:264
+msgid "Title for latest tab"
+msgstr ""
+
+#: framework/widgets/hot_product.php:138
+msgid "Title for popular tab:"
+msgstr ""
+
+#: framework/widgets/customrecent.php:107
+#: framework/widgets/recent_post_slider.php:119
+#: framework/widgets/recent_product.php:157
+msgid "Title Link"
+msgstr ""
+
+#: framework/widgets/productaz.php:75 framework/widgets/wd_woo_products.php:192
+msgid "Title:"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:148
+msgid "Toggle Vertical Menu"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:44
+msgid "Top Content Widget Area"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-top-rated-products.php:8
+msgid "Top Rated Products"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/form-pay.php:20
+#: woocommerce/checkout/review-order.php:16
+#: woocommerce/myaccount/my-orders.php:33
+#: woocommerce/order/order-details.php:31
+msgid "Total"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: single-project.php:102 single.php:218 page-templates/comming-soon.php:36
+#: woocommerce/single-product/share.php:28
+msgid "Tweet on Twitter"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:38
+#: framework/extension/extendvc/vc_generate/icon.php:64
+#: framework/extension/extendvc/vc_generate/params.php:65
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:50
+#: framework/extension/extendvc/vc_generate/testimonial.php:62
+msgid "Type"
+msgstr ""
+
+#: framework/widgets/best_selling_product.php:151
+#: framework/widgets/hot_product.php:141
+#: framework/widgets/recent_product.php:160
+#: framework/widgets/wd_woo_products.php:195
+msgid "Type:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:95
+msgid "Update Total"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:161
+msgid "URL"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:131
+msgid "Use Animate?"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:26
+msgid "use cover"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:64
+msgid "Use isotope"
+msgstr ""
+
+#: framework/functions/woo-account.php:46
+#: woocommerce/myaccount/form-login.php:61
+msgid "User or Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:100
+msgid "username"
+msgstr ""
+
+#: woocommerce/global/form-login.php:21
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:36
+msgid "Using for header v4 (SuperMarket)"
+msgstr ""
+
+#: woocommerce/single-product/review.php:52
+msgid "verified owner"
+msgstr ""
+
+#: framework/abstract.php:120
+msgid "Vertical Navigation"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Very Poor"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:89
+msgid "Video color"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:155
+msgid "Video height"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:141
+msgid "Video URL"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:149
+msgid "Video width"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:79
+msgid "View"
+msgstr ""
+
+#: framework/functions/header_function.php:64 woocommerce/cart/mini-cart.php:80
+msgid "View Cart"
+msgstr ""
+
+#: framework/functions/woo-cart.php:110 framework/functions/woo-cart.php:216
+msgid "view cart"
+msgstr ""
+
+#: framework/functions/woo-cart.php:192
+msgid "View more in cart..."
+msgstr ""
+
+#: framework/functions/woo-cart.php:88
+msgid "View more on cart page"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:54
+msgid "view more on cart page"
+msgstr ""
+
+#: framework/functions/main.php:190 framework/functions/woo-cart.php:29
+msgid "View your shopping bag"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_post_layout.php:126
+msgid "WAV URL"
+msgstr ""
+
+#: framework/widgets/emads.php:12
+msgid "WD - Ads"
+msgstr ""
+
+#: framework/widgets/best_selling_product.php:7
+msgid "WD - Best Selling Products"
+msgstr ""
+
+#: framework/widgets/coupon.php:11
+msgid "WD - Coupon"
+msgstr ""
+
+#: framework/widgets/custompages.php:6
+msgid "WD - Custom Pages"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:11
+msgid "WD - Feedburner Subscriptions"
+msgstr ""
+
+#: framework/widgets/hot_product.php:7
+msgid "WD - Hot Products"
+msgstr ""
+
+#: framework/widgets/ew_multitab.php:9
+msgid "WD - Multi Tabs"
+msgstr ""
+
+#: framework/widgets/ew_multitab.php:10
+msgid "WD - MultiTab"
+msgstr ""
+
+#: framework/widgets/productaz.php:9
+msgid "WD - Product A to Z"
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:6
+msgid "WD - Recent Comments"
+msgstr ""
+
+#: framework/widgets/ew_social.php:11
+msgid "WD - Social Profiles"
+msgstr ""
+
+#: framework/widgets/wd_woo_products.php:7
+msgid "WD - Woocommerce Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:12
+msgid "WD Banner"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:9
+msgid "WD Best Selling Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:24
+msgid "WD Best Selling Products - SD"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/child_categories.php:12
+msgid "WD Child Categories"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/specific_product_slider.php:12
+msgid "WD Custom Products - SD"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/custom_product_by_category.php:9
+msgid "WD Custom Products by Category"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:304
+msgid "WD Feature Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:24
+msgid "WD Feature Products - SD"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_gallery.php:17
+msgid "WD Gallery"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/gap.php:6
+msgid "WD Gap"
+msgstr ""
+
+#: framework/functions/wdmenus-init.php:115
+#, php-format
+msgid "Wd Mega Menu Widget Area %d"
+msgstr ""
+
+#: framework/functions/wdmenus-init.php:106
+msgid "Wd Mega Menu Widget Area 1"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo-product-category.php:47
+msgid "WD Product Categories"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:12
+msgid "WD Product Filter By Brands"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:12
+msgid "WD Product Filter By Categories"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_product_brand.php:9
+msgid "WD Products Brand Thumbnail"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/woo_product.php:9
+msgid "WD Products Category Thumbnail"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_products.php:9
+msgid "WD Recent Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:9
+msgid "WD Recent Products - SD"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/sale_products.php:9
+msgid "WD Sale Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/sale_product_countdown.php:9
+msgid "WD Sale Products Countdown"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:9
+msgid "WD Top Rated Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:17
+msgid "WD Video Background"
+msgstr ""
+
+#. Name of the theme
+msgid "WD_General"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:64
+msgid "Webm url"
+msgstr ""
+
+#: framework/functions/comment.php:17
+msgid "Website*"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:26
+msgid "Weight"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:63
+msgid "Width"
+msgstr ""
+
+#: framework/functions/main.php:512
+msgid "Wishlist"
+msgstr ""
+
+#. Name of the template
+msgid "woo compare"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/top_rated_products.php:12
+#: framework/extension/extendvc/vc_generate/woo-add-to-cart.php:63
+#: framework/extension/extendvc/vc_generate/woo-top-rated-products.php:11
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:15
+#: framework/extension/extendvc/vc_generate/button.php:20
+#: framework/extension/extendvc/vc_generate/custom_product_by_category.php:12
+#: framework/extension/extendvc/vc_generate/feature.php:33
+#: framework/extension/extendvc/vc_generate/feedbuner.php:9
+#: framework/extension/extendvc/vc_generate/gap.php:9
+#: framework/extension/extendvc/vc_generate/heading.php:19
+#: framework/extension/extendvc/vc_generate/icon.php:19
+#: framework/extension/extendvc/vc_generate/portfolio.php:21
+#: framework/extension/extendvc/vc_generate/pricing_table.php:9
+#: framework/extension/extendvc/vc_generate/product_filter_by_category.php:15
+#: framework/extension/extendvc/vc_generate/product_filter_by_sub_category.php:15
+#: framework/extension/extendvc/vc_generate/progress_bar.php:20
+#: framework/extension/extendvc/vc_generate/quote.php:20
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:24
+#: framework/extension/extendvc/vc_generate/wd_gallery.php:20
+#: framework/extension/extendvc/vc_generate/wd_product_brand.php:12
+#: framework/extension/extendvc/vc_generate/wd_video_backg.php:20
+#: framework/extension/extendvc/vc_generate/woo_product.php:12
+msgid "WPDance Elements"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_products.php:12
+#: framework/extension/extendvc/vc_generate/child_categories.php:15
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:307
+#: framework/extension/extendvc/vc_generate/sale_products.php:12
+#: framework/extension/extendvc/vc_generate/sale_product_countdown.php:12
+msgid "WPDance Products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:27
+#: framework/extension/extendvc/vc_generate/recent_products.php:12
+#: framework/extension/extendvc/vc_generate/recent_product_by_slider.php:12
+msgid "WPDance Slider"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/countdown.php:42
+msgid "Year"
+msgstr ""
+
+#: archive.php:29 index.php:41
+#, php-format
+msgid "Year : %s"
+msgstr ""
+
+#: archive.php:29 index.php:41
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:49
+msgid "You can use pixels (px) or percents (%)."
+msgstr ""
+
+#: framework/functions/preview_mod.php:19
+msgid "You do not have sufficient permissions to do this action."
+msgstr ""
+
+#: framework/functions/woo-cart.php:103 framework/functions/woo-cart.php:209
+msgid "You have no items in your shopping cart."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:75
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: admin/functions/functions.options.php:1420
+msgid "YOU MAY ALSO LIKE"
+msgstr ""
+
+#: framework/functions/comment.php:44
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:19
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: framework/functions/filter_theme.php:102
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/functions/comment.php:16
+msgid "Your Email*"
+msgstr ""
+
+#: framework/functions/comment.php:15
+msgid "Your Name*"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:167
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid "Your Review"
+msgstr ""
